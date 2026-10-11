@@ -1,6 +1,8 @@
 # Bearletter for AI agents
 
-The Bearletter MCP server and a skill for using it, packaged for the agents that take plugins. The server is `https://api.bearletter.com/mcp`; you approve it in the browser the first time, with no key. Docs: https://docs.bearletter.com/
+The Bearletter MCP server and a skill for using it, packaged for the agents that take plugins. The server is `https://api.bearletter.com/mcp`; you approve it in the browser the first time, with no key. Docs: https://docs.bearletter.com/mcp/skills
+
+The same files are served from docs, for agents that cannot reach GitHub: https://docs.bearletter.com/skills/bearletter/SKILL.md, https://docs.bearletter.com/skills/bearletter.zip and https://docs.bearletter.com/agents.zip.
 
 | Agent | Install |
 | --- | --- |
