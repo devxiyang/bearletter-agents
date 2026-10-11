@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bearletter": { "type": "http", "url": "https://api.bearletter.com/mcp" }
+  }
+}

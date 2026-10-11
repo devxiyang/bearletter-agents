@@ -1,0 +1,8 @@
+{
+  "name": "bearletter",
+  "version": "1.0.0",
+  "description": "Work on your Bearletter blog: write and publish articles, edit pages, menus and themes, post to X, manage the podcast, back up.",
+  "mcpServers": {
+    "bearletter": { "httpUrl": "https://api.bearletter.com/mcp" }
+  }
+}

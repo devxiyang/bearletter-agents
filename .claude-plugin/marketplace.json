@@ -1,0 +1,12 @@
+{
+  "name": "bearletter",
+  "owner": { "name": "Bearletter", "url": "https://bearletter.com" },
+  "description": "The Bearletter plugin: the Bearletter MCP server and the skill for using it.",
+  "plugins": [
+    {
+      "name": "bearletter",
+      "source": "./",
+      "description": "Work on your Bearletter blog: write and publish articles, edit pages, menus and themes, post to X, manage the podcast, back up."
+    }
+  ]
+}

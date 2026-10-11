@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bearletter": { "type": "streamable-http", "url": "https://api.bearletter.com/mcp" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bearletter",
+  "version": "1.0.0",
+  "description": "Work on your Bearletter blog: write and publish articles, edit pages, menus and themes, post to X, manage the podcast, back up.",
+  "homepage": "https://docs.bearletter.com/",
+  "license": "MIT",
+  "repository": "https://github.com/devxiyang/bearletter-agents"
+}

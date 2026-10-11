@@ -1,0 +1,18 @@
+{
+  "name": "bearletter",
+  "displayName": "Bearletter",
+  "description": "Work on your Bearletter blog: write and publish articles, edit pages, menus and themes, post to X, manage the podcast, back up.",
+  "author": {
+    "name": "Bearletter",
+    "url": "https://bearletter.com"
+  },
+  "homepage": "https://docs.bearletter.com/",
+  "license": "MIT",
+  "keywords": [
+    "blog",
+    "writing",
+    "publishing",
+    "mcp"
+  ],
+  "repository": "https://github.com/devxiyang/bearletter-agents"
+}
